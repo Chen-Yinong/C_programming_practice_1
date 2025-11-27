@@ -1,6 +1,8 @@
 #ifndef SCORE_MANAGEMENT_H
 #define SCORE_MANAGEMENT_H
 
+#define MAX_N 100
+
 typedef struct 
 {
     char id[10];
