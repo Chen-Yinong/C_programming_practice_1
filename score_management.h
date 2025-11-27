@@ -12,5 +12,10 @@ typedef struct
 
 int load_students(Student stu[]);
 
+void save_students(Student stu[],int n);
+
+void print_students(Student stu[],int n);
+
+void add_student(Student stu[],int* n,Student newdata);
 
 #endif//一上来就写好了
